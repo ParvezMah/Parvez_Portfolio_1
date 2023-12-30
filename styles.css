@@ -56,3 +56,16 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
+
+.header_text{
+    margin-top: 20%;
+    font-size: 1.87 rem;
+}
+
+.header_text h1{
+    font: size 3.75rem;
+    margin-top: 20px;
+}
+.header_text h1 span{
+    color: #ff004f;
+}
